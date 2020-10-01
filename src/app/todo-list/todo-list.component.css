@@ -6,11 +6,9 @@
 }
 
 .li2{
-    
     color: black;
     text-align: center;
-    cursor: pointer;
-    
+    cursor: pointer;   
 }
 
 .material-icons { font-size: 20px; }
@@ -67,11 +65,6 @@ form{ max-width: 25em; margin: 1em auto;}
     letter-spacing: 10px;
     cursor: pointer;
 }
-
-/*
-
-             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-*/
 
 .footer{
     
